@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "fallingsnow",
+  "version": "${version}",
+  "name": "Falling Snow",
+  "description": "Make powdered snow actually fall",
+  "authors": [
+    "lynxize"
+  ],
+  "contact": {
+    "homepage": "https://github.com/lynxize/FallingSnow",
+    "sources": "https://github.com/lynxize/FallingSnow"
+  },
+  "license": "MIT",
+  "environment": "*",
+  "mixins": [
+    "fallingsnow.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": "0.14.*",
+    "minecraft": "1.20.*",
+    "java": ">=17"
+  }
+}
