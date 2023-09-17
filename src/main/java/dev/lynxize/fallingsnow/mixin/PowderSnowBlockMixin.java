@@ -1,4 +1,4 @@
-package dev.lynxize.betterboat.mixin;
+package dev.lynxize.fallingsnow.mixin;
 
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Direction;
